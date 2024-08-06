@@ -1,0 +1,9 @@
+{
+    "id": "link-type-recognizer",
+    "name": "链接类型识别器",
+    "version": "1.0.0",
+    "author": "3zh2",
+    "description": "识别和生成链接的 HTML 代码",
+    "main": "main.ts",
+    "minAppVersion": "0.12.0"
+}
